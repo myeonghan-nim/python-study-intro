@@ -1,4 +1,4 @@
-# python
+# Study: python
 
 ```python
 def main():
